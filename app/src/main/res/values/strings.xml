@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">COVID-19</string>
+    <string name="title_home">CoronaVirus - Data</string>
+    <string name="title_dashboard">RealTime -Data</string>
+    <string name="coro1">Coronaviruses are a family of viruses that can cause illnesses such as the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). In 2019, a new coronavirus was identified as the cause of a disease outbreak that originated in China.
+
+The virus is now known as the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The disease it causes is called coronavirus disease 2019 (COVID-19).
+
+Cases of COVID-19 have been reported in a growing number of countries, including the U.S. Public health groups, such as the World Health Organization (WHO) and the U.S. Centers for Disease Control and Prevention (CDC), are monitoring the situation and posting updates on their websites. WHO declared a global pandemic in March 2020. These groups have also issued recommendations for preventing and treating the illness.</string>
+
+
+    <string name="coro2">Signs and symptoms of COVID-19 may appear two to 14 days after exposure and can include:\n
+
+   1. Fever\n
+   2. Cough\n
+   3. Shortness of breath or difficulty breathing
+</string>
+
+    <string name="coro3">Other symptoms can include:\n</string>
+    <string name="coro4">
+    1. Tiredness
+    2.Aches
+    3.Runny nose
+    4.Sore throat\n
+
+
+        The severity of COVID-19 symptoms can range from very mild to severe. Some people have no symptoms. People who are older or have existing chronic medical conditions, such as heart or lung disease or diabetes, may be at higher risk of serious illness. This is similar to what is seen with other respiratory illnesses, such as influenza
+</string>
+
+    <string name="coro5">Contact your doctor or clinic right away if you have COVID-19 symptoms.</string>
+
+    <string name="coro6">Risk factors for COVID-19 appear to include: \n
+
+    1.Recent travel from or residence in an area with ongoing community spread of COVID-19 as determined by CDC or WHO. \n
+        2.Close contact with someone who has COVID-19 — such as when a family member or health care worker takes care of an infected person
+    </string>
+
+    <string name="coro7">Complications can include: \n
+
+1.Pneumonia in both lungs\n
+2.Organ failure in several organs\n
+    3.Death
+</string>
+</resources>
+
+
+

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".CoronaActivity">
+
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" CoronaVirus (COVID-19)"
+                android:textColor="#F33022"
+                android:textSize="35sp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_marginTop="5dp"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Overview "
+                android:textColor="#4A8309"
+                android:textSize="35sp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:id="@+id/id1"
+                android:layout_marginTop="5dp"
+
+                />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/coro1"
+                android:textColor="#0C0C0C"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:id="@+id/id2"
+                android:textStyle="bold"
+                android:layout_marginTop="5dp"
+
+                />
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Symptoms"
+                android:textColor="#2196F3"
+                android:textSize="35sp"
+                android:id="@+id/id3"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_marginTop="5dp"
+
+                />
+
+
+            <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/coro2"
+            android:textColor="#0C0C0C"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:textStyle="bold"
+                android:id="@+id/id4"
+            android:layout_marginTop="5dp"
+
+            />
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/coro3"
+                android:textColor="#BAA917"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:id="@+id/id5"
+                android:layout_marginTop="5dp"
+
+                />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/coro4"
+                android:textColor="#0C0C0C"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:id="@+id/id6"
+                android:layout_marginTop="5dp"
+
+                />
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="When to see a doctor"
+                android:textColor="#2196F3"
+                android:textSize="35sp"
+                android:gravity="center"
+                android:id="@+id/id7"
+                android:textStyle="bold"
+                android:layout_marginTop="5dp"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/coro5"
+                android:textColor="#0C0C0C"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:id="@+id/id8"
+                android:textStyle="bold"
+                android:layout_marginTop="5dp"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Causes"
+                android:textColor="#2196F3"
+                android:textSize="35sp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:id="@+id/id9"
+                android:layout_marginTop="5dp"
+
+                />
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/coro6"
+                android:textColor="#0C0C0C"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:id="@+id/id10"
+                android:layout_marginTop="5dp"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Complications"
+                android:textColor="#2196F3"
+                android:textSize="35sp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:id="@+id/id11"
+                android:layout_marginTop="5dp"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/coro7"
+                android:textColor="#0C0C0C"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:id="@+id/id12"
+                android:layout_marginTop="5dp"
+
+                />
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+    </ScrollView>
+
+
+
+
+
+
+</RelativeLayout>
